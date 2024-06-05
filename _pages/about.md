@@ -9,10 +9,10 @@ redirect_from:
 
 I am a present Ph.D. student at the [School of Electrical Engineering](https://ee.hebut.edu.cn/), [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, China. I received my B.S. degree in Electrical Engineering in 2018 and my M.S. degree in the same field in 2021, both from [Tiangong University](https://www.tiangong.edu.cn/main.htm), Tianjin, China.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I was very fortunate to be guided by [Prof. Yang Qingxin](https://ee.hebut.edu.cn/szdw/jsml/Y/c573fe21a1384f15ba314cbf7f094008.html#main) and [Zhang Xian](https://ee.hebut.edu.cn/szdw/jsml/Z/ed09ec4d87f04b2ea4f4cb5476312865.html#main), who are from the [State Key Laboratory of Reliability and Intelligence of Electrical Equipment](https://eeri.hebut.edu.cn/tdjs/xsdtr/index.html), Hebei University of Technology.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+My research interests focus on engineering electromagnetism, wireless power transfer, and its industrial applications.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+You can find my CV here: [Fengxian Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-I am a present Ph.D. student at the [School of Electrical Engineering](https://ee.hebut.edu.cn/), [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, China. I received my B.S. degree in Electrical Engineering in 2018 and my M.S. degree in the same field in 2021, both from [Tiangong University](https://www.tiangong.edu.cn/main.htm), Tianjin, China.
+[Email](fx-wang@outlook.com) / [Wechat](../images/wechat.jpg)
