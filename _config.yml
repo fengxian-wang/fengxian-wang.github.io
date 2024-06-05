@@ -21,7 +21,7 @@ repository               : "fengxian-wang/fengxian-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Fengxian Wang"
   pronouns         : # example: "she/her"  
   bio              : "School of Electrical Engineering, Hebei University of Technology"
