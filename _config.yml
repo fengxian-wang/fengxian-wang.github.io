@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Fengxian Wang"
   pronouns         : # example: "she/her"  
-  bio              : "School of Electrical Engineering, Hebei University of Technology"
+  bio              : "Doctoral student in HEBUT"
   location         : "Tianjin, China"
   employer         : #"Major in Electrical Engineering"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=WkrkOpgAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-9435-6979"
+  orcid            : "https://orcid.org/0009-0004-9435-6979"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Wang-Fengxian-2"
