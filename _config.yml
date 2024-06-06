@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fengxian Wang / Personal Homepage"
+title                    : "Fengxian Wang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Fengxian Wang"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "School of Electrical Engineering, Hebei University of Technology"
   location         : "Tianjin, China"
-  employer         : "Major in Electrical Engineering"
+  employer         : #"Major in Electrical Engineering"
   uri              : # URL
   email            : "fx-wang@outlook.com" 
 
