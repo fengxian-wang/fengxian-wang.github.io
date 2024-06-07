@@ -10,7 +10,7 @@ paperurl: 'http://fengxian-wang.github.io/files/Paper-A High-Efficiency Underwat
 citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses. <i>IEEE Transactions on Power Electronics</i>. Early Access.'
 ---
 
-- **DOI link:**
+ **DOI link:**
   [10.1109/TPEL.2024.3392375](https://doi.org/10.1109/TPEL.2024.3392375)
 
   
