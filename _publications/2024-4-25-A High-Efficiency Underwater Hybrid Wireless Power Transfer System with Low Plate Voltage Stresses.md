@@ -7,7 +7,7 @@ date: 2024-4-25
 venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
-citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. Early Access.'
+citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)).'
 ---
 
 **DOI link:**
