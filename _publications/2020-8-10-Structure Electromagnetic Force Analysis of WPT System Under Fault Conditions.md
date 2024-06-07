@@ -7,7 +7,7 @@ date: 2020-8-10
 venue: 'IEEE Access'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
-citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. (2020). &quot;title.&quot; <i>venue</i>. 8.'
+citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. (2020). Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions. <i>IEEE Access</i>. 8.'
 ---
 
 **DOI link:**

@@ -1,13 +1,13 @@
 ---
-title: “A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses”
+title: “High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses”
 collection: publications
-permalink: /publication/2024-4-25-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses
+permalink: /publication/2024-4-25-High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses
 excerpt: 'This paper proposes a high-efficiency underwater hybrid wireless power transfer (UHWPT) system with low plate voltage stresses to ensure a safe and stable power supply for underwater electrical equipment. The power transfer channel is constituted by an integrated magnetic-electric coupler, formed by nesting coils into C-shaped plates and integrating them into the LC -compensated topology. The system's working principle is analyzed in detail, providing the relationship among the circuit parameters, efficiency, and the same-side inter-plate (SIP) voltage. The impact of the geometric dimensions and insulation on electrical parameters is explored to provide a reference basis for designing the integrated magnetic-electric coupler. A system design method based on the double optimization parameters is hereby proposed. Then, an experimental prototype is set up to verify the feasibility of the design method. Experimental results show that the system achieves the load-independent constant current (CC) output with a maximum efficiency of 87.8%. Compared to the SS-compensated underwater inductive power transfer (UIPT) and capacitive power transfer (UCPT) systems at the same input power, the average suppression of the coil currents and the SIP voltage stresses of the proposed system is improved by 39.1% and 31.3%, respectively.'
 date: 2024-4-25
 venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
-citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). &quot;title.&quot; <i>venue</i>. Early Access.'
+citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses. <i>IEEE Transactions on Power Electronics</i>. Early Access.'
 ---
 
 **DOI link:**
