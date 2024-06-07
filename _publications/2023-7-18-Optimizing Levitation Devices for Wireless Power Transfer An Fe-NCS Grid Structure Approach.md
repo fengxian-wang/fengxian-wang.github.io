@@ -7,7 +7,7 @@ date: 2023-7-18
 venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Optimizing Levitation Devices for Wireless Power Transfer An Fe-NCS Grid Structure Approach.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Optimizing Levitation Devices for Wireless Power Transfer An Fe-NCS Grid Structure Approach.pdf'
-citation: 'Fengxian Wang, Qingxin Yang, Xian Zhang, Zhaoyang Yuan, Xuejing Ni. (2023). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 38(10).'
+citation: 'Fengxian Wang, Qingxin Yang, Xian Zhang, Zhaoyang Yuan, Xuejing Ni. (2023). &quot;title.&quot; <i>venue</i>. 38(10).'
 ---
 
 **DOI link:**
