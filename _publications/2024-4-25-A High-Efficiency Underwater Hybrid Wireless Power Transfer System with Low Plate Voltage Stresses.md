@@ -16,7 +16,7 @@ citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Wei
 
 
 **Keywords:**
-Wireless power transfer, Underwater operation, Hybrid system design, Low voltage stresses, Constant current output.
+Wireless Power Transfer, Underwater Operation, Hybrid System Design, Low Voltage Stresses, Constant Current Output.
 
 
 
