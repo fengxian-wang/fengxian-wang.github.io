@@ -7,7 +7,7 @@ date: 2020-8-10
 venue: 'IEEE Access'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
-citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. (2020). Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions. <i>IEEE Access</i>. 8.'
+citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions. <i>IEEE Access</i>. 8.'
 ---
 
 **DOI link:**
@@ -25,7 +25,7 @@ Wireless Power Transfer, Failure Analysis, Electromagnetic Force, Stress Distrib
 
 
 - This study investigates the electromagnetic force (EMF) distribution within the coupling mechanism of a wireless power transfer (WPT) system during fault conditions, focusing on the impact of such forces.
-- The research emphasizes the importance of the safe and stable operation of WPT systems, especially under fault conditions that intensify the influence of EMF.
+- The study emphasizes the importance of the safe and stable operation of WPT systems, especially under fault conditions that intensify the influence of EMF.
 - The series to series (SS) compensation structure is used as an example to analyze the WPT system's electrical parameters during typical faults.
 - It identifies that an open load fault affects the system the most, leading to damage to magnetic shielding structures and coil deformations.
 - A mathematical model combining field-path coupling and Maxwell stress methods is established to calculate the EMF of the WPT system.

@@ -7,7 +7,7 @@ date: 2023-7-24
 venue: 'Proceedings of the CSEE'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Research on Self-Decoupling Segmented Coil Rail and Dual-Mode Switching Strategy of Dynamic Wireless Charging System.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Research on Self-Decoupling Segmented Coil Rail and Dual-Mode Switching Strategy of Dynamic Wireless Charging System.pdf'
-citation: 'Xian Zhang, Weida Xu, Fengxian Wang*, Chaoyang Yuan, Qingxin Yang, Zhongyu Dai. (2024). Research on Self-Decoupling Segmented Coil Rail and Dual-Mode Switching Strategy of Dynamic Wireless Charging System. <i>Proceedings of the CSEE</i>. Early Access.'
+citation: 'Xian Zhang, Weida Xu, Fengxian Wang*, Chaoyang Yuan, Qingxin Yang, Zhongyu Dai. Research on Self-Decoupling Segmented Coil Rail and Dual-Mode Switching Strategy of Dynamic Wireless Charging System. <i>Proceedings of the CSEE</i>. Early Access.'
 ---
 
  **DOI link:**
@@ -33,7 +33,7 @@ Electric Vehicles, Dynamic Wireless Charging, Self-Decoupling, Position Detectio
   **Why - Analysis of the Purpose:**
 
   - The study aims to address the challenges of cross-coupling between transmission coils in dynamic wireless charging systems for electric vehicles and to enhance the efficiency and stability of the charging process.
-  - The research seeks to simplify the design of the compensation topology by naturally decoupling the coils and improving the position detection of the receiver.
+  - The study seeks to simplify the design of the compensation topology by naturally decoupling the coils and improving the position detection of the receiver.
 
   
 

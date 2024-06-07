@@ -7,7 +7,7 @@ date: 2024-4-25
 venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
-citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. (2024). A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses. <i>IEEE Transactions on Power Electronics</i>. Early Access.'
+citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses. <i>IEEE Transactions on Power Electronics</i>. Early Access.'
 ---
 
  **DOI link:**
@@ -30,7 +30,7 @@ citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Wei
 
   **Why - Analysis of the Purpose:**
 
-  - The research aims to address the issues of efficiency and voltage stresses in underwater power systems, particularly the risks associated with eddy current losses in seawater.
+  - The study aims to address the issues of efficiency and voltage stresses in underwater power systems, particularly the risks associated with eddy current losses in seawater.
   - The study proposes a novel design that integrates both magnetic and electric field coupling channels to improve power transfer while managing the system's efficiency and reducing voltage stresses.
 
   

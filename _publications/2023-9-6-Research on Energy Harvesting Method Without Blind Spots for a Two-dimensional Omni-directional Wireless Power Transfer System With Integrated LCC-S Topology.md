@@ -7,7 +7,7 @@ date: 2023-9-6
 venue: 'Proceedings of the CSEE'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Research on Energy Harvesting Method Without Blind Spots for a Two-dimensional Omni-directional Wireless Power Transfer System With Integrated LCC-S Topology.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Research on Energy Harvesting Method Without Blind Spots for a Two-dimensional Omni-directional Wireless Power Transfer System With Integrated LCC-S Topology.pdf'
-citation: 'Xian Zhang, Ran Wang, Fengxian Wang*, Chaoyang Yuan, Mousong Li, Qingxin Yang, Zhongyu Dai. (2024). Research on Energy Harvesting Method Without Blind Spots for a Two-dimensional Omni-directional Wireless Power Transfer System With Integrated LCC-S Topology. <i>Proceedings of the CSEE</i>. 44(10).'
+citation: 'Xian Zhang, Ran Wang, Fengxian Wang*, Chaoyang Yuan, Mousong Li, Qingxin Yang, Zhongyu Dai. Research on Energy Harvesting Method Without Blind Spots for a Two-dimensional Omni-directional Wireless Power Transfer System With Integrated LCC-S Topology. <i>Proceedings of the CSEE</i>. 44(10).'
 ---
 
  **DOI link:**
@@ -31,7 +31,7 @@ citation: 'Xian Zhang, Ran Wang, Fengxian Wang*, Chaoyang Yuan, Mousong Li, Qing
 
   **Why - Analysis of the Purpose:**
 
-  - The research aims to solve the inherent issue of energy capture blind spots in two-dimensional WPT systems by proposing a novel topology that ensures a uniform magnetic field distribution.
+  - The study aims to solve the inherent issue of energy capture blind spots in two-dimensional WPT systems by proposing a novel topology that ensures a uniform magnetic field distribution.
   - The study strives to simplify current control strategies necessary for achieving omnidirectional energy transfer without compromising the spatial magnetic field's integrity.
 
   
@@ -52,7 +52,7 @@ citation: 'Xian Zhang, Ran Wang, Fengxian Wang*, Chaoyang Yuan, Mousong Li, Qing
 
   **Examples of Critical Solutions Proposed:**
 
-  - The research offers a practical solution to the challenge of blind spots in energy capture by adjusting system parameters dynamically to maintain optimal magnetic field distribution.
+  - The study offers a practical solution to the challenge of blind spots in energy capture by adjusting system parameters dynamically to maintain optimal magnetic field distribution.
 
     
 
