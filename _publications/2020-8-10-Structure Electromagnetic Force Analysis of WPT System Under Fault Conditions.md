@@ -1,11 +1,12 @@
 ---
 title: "Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions"
 collection: publications
-permalink: /publication/2020-8-10-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions-1
+permalink: /publication/2020-8-10-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions
 excerpt: 'In the high-frequency electromagnetic field, the coupling of the wireless power transfer (WPT) system is affected by the electromagnetic force (EMF). The fault conditions will strengthen the influence, cause the damage of magnetic shielding structure, coil deformation, insulation damage and so on. In order to ensure the safe and stable operation of the WPT system, it is necessary to study the local EMF distribution of the coupling mechanism under the fault condition of WPT system. In this paper, the series to series (SS) compensation structure is taken as an example to analyze the changes of electrical parameters of WPT system under typical faults, and determines that the open load fault has the greatest impact on the system. The WPT system with groove-shaped magnetic shield structure is selected as the research object. Establish a mathematical model for calculating the EMF of the WPT system combining the field-path coupling time-step finite element method and the Maxwell stress method, the distribution law of local EMF of magnetic shielding structure when the load is open is analyzed and calculated. At the same time, an experimental platform is built to verify the effectiveness of the method. According to the distribution characteristics of EMF, the smoothing scheme based on variable-turn-pitch planar coil is proposed. The new coil structure obtained by the SNOPT algorithm, compared with the equi-turn-pitch planar coil, the overall force on the coupling mechanism of transmitting end under the open circuit fault at the receiving end is reduced by 86.24%. This study provides a theoretical reference for the optimal design of coupling mechanism of WPT system.'
 date: 2020-8-10
 venue: 'IEEE Access'
-paperurl: 'http://fengxian-wang.github.io/files/Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
+slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
+paperurl: 'http://fengxian-wang.github.io/files/Paper-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
 citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 8.'
 ---
 
@@ -15,7 +16,7 @@ citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. (202
 
 
 **Keywords:**
-Wireless power transfer, failure analysis, electromagnetic force, stress distribution, smoothing scheme.
+Wireless Power Transfer, Failure Analysis, Electromagnetic Force, Stress Distribution, Smoothing Scheme.
 
 
 
