@@ -7,7 +7,7 @@ date: 2021-8-4
 venue: 'Transactions of China Electrotechnical Society'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control.pdf'
-citation: 'Fengxian Wang, Xian Zhang, Qingxin Yang, Lin Sha, Nianzhen Ren, Zhiyuan Fu. Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control. <i>Transactions of China Electrotechnical Society</i>. Early Access.'
+citation: 'Fengxian Wang, Xian Zhang, Qingxin Yang, Lin Sha, Nianzhen Ren, Zhiyuan Fu. Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control. <i>Transactions of China Electrotechnical Society</i>. 37(01).'
 ---
 
  **DOI link:**

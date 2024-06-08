@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+
+Education Background
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+| Ddegree | Academia                       | Major                  | Start and End Time |
+| ------- | ------------------------------ | ---------------------- | ------------------ |
+| Ph.D.   | Hebei University of Technology | Electrical Engineering | 2021 .9 – Now      |
+| M.S.    | Tiangong University            | Electrical Engineering | 2018 .9 - 2021. 6  |
+| B.S.    | Tiangong University            | Electrical Engineering | 2014 .9 - 2018. 6  |
+
+Research Interests
+======
+- Wireless Power Transfer Technology
+- Engineering Electromagnetic Fields and Magnetic Technology
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Participating Projects
 ======
+| Name                                                         | Project Initiation Time | Project Number   | Approving Department                         | Ranking/Responsibility                                       |
+| ------------------------------------------------------------ | ----------------------- | ---------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| Wireless Charging Smart Cities                               | 2019                    | kxyjskpxm2019042 | China Association of Science and Technology  | First chair/Responsible for model development and equipment coordination |
+| Research  on  Fundamental  Problems  of  Wireless  Power  Transmission  in  Near-Field Electromagnetic Fields | 2021                    | 52122701         | National Natural Science Foundation of China | Unranked (PhD project)/Responsible for modelling and theoretical studies |
+| Research on High Performance Electromagnetic Coupling Method for Wireless Charging Based on Novel Flexible Laminated Nanocrystals | 2019                    | 51977147         | National Natural Science Foundation of China | Fifth lead researcher/Responsible for simulations, theoretical innovations and experimental tests |
+| Research on the Mechanism and Smoothing Method of High Frequency Electromagnetic Force in the Process of Dynamic Wireless Power Coupling | 2018                    | 51807138         | National Natural Science Foundation of China | Unranked (MSc)/Parametric solution analysis and system design |
+
+
+
+Scholarship awards
+======
+
+| Name                                                         | Award Time     | Rating      | Awarding Department                                          | Ranking |
+| ------------------------------------------------------------ | -------------- | ----------- | ------------------------------------------------------------ | ------- |
+| National Scholarship for Graduate Students                   | 2020           | First Prize | Ministry of National Education and Ministry of Finance, China | N/A     |
+| First Prize of Photovoltaic Group in the North China Region of the 11th National Intelligent Vehicle Competition for College Students | 2016           | First Prize | Department of Higher Education, Ministry of National Education, China | N/A     |
+| Hebei University of Technology Academic Scholarship          | 2021/2022/2023 | First Prize | Hebei University of Technology                               | N/A     |
+| Outstanding Graduates of Tiangong University                 | 2021           | First Prize | Tiangong University                                          | N/A     |
+
+Academic activities
+======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
