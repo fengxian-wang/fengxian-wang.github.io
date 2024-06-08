@@ -42,8 +42,6 @@ Participating Projects
 | Research on High Performance Electromagnetic Coupling Method for Wireless Charging Based on Novel Flexible Laminated Nanocrystals | 2019                    | 51977147         | National Natural Science Foundation of China | Fifth lead researcher/Responsible for simulations, theoretical innovations and experimental tests |
 | Research on the Mechanism and Smoothing Method of High Frequency Electromagnetic Force in the Process of Dynamic Wireless Power Coupling | 2018                    | 51807138         | National Natural Science Foundation of China | Unranked (MSc)/Parametric solution analysis and system design |
 
-
-
 Scholarship awards
 ======
 
