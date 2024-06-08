@@ -8,6 +8,10 @@ date: 2022-10-9
 location: "Denver, Colorado"
 ---
 
+This study elucidates the energy transmission mechanism and Poynting vector distribution in wireless power transfer systems, explores coil inductance and capacitance effects, and experimentally verifies the regulation of energy transmission through theoretical calculations, while highlighting the importance of electric field coupling in high-frequency environments and the dual role of magnetic and electric field couplings in energy transfer, culminating in a frequency-based control method to optimize the system's performance and efficiency.
+
+
+
 **DOI link**：[10.1109/CEFC55061.2022.9940689](https://doi.org/10.1109/CEFC55061.2022.9940689)
 
 The transmission of Poynting vector in wireless power transmission system is one of the essential laws of energy exchange in space. This paper gives its energy transmission mechanism in space and the distribution law of Poynting vector. At the same time, the coil inductance effect and capacitance effect in the actual work process are explored. The proportional coefficient of system energy transmission is given through theoretical calculation, and the regulation of energy proportion is realized through the key factors in the regulation coefficient，and It is verified by experiments. 

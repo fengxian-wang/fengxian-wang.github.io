@@ -35,12 +35,12 @@ Publications
 
 Participating Projects
 ======
-| Name                                                         | Project Initiation Time | Project Number   | Approving Department                         | Ranking/Responsibility                                       |
-| ------------------------------------------------------------ | ----------------------- | ---------------- | -------------------------------------------- | ------------------------------------------------------------ |
-| Wireless Charging Smart Cities                               | 2019                    | kxyjskpxm2019042 | China Association of Science and Technology  | First chair/Responsible for model development and equipment coordination |
-| Research  on  Fundamental  Problems  of  Wireless  Power  Transmission  in  Near-Field Electromagnetic Fields | 2021                    | 52122701         | National Natural Science Foundation of China | Unranked (PhD project)/Responsible for modelling and theoretical studies |
-| Research on High Performance Electromagnetic Coupling Method for Wireless Charging Based on Novel Flexible Laminated Nanocrystals | 2019                    | 51977147         | National Natural Science Foundation of China | Fifth lead researcher/Responsible for simulations, theoretical innovations and experimental tests |
-| Research on the Mechanism and Smoothing Method of High Frequency Electromagnetic Force in the Process of Dynamic Wireless Power Coupling | 2018                    | 51807138         | National Natural Science Foundation of China | Unranked (MSc)/Parametric solution analysis and system design |
+| Name                                                         | Project Initiation Time | Project Number   | Approving Department                         | Ranking                |
+| ------------------------------------------------------------ | ----------------------- | ---------------- | -------------------------------------------- | ---------------------- |
+| Wireless Charging Smart Cities                               | 2019                    | kxyjskpxm2019042 | China Association of Science and Technology  | First chair            |
+| Fundamental Research on Near-Field Wireless Power Transfer   | 2021                    | 52122701         | National Natural Science Foundation of China | Unranked (PhD project) |
+| Research on Advanced Wireless Charging with Flexible Laminated Nanocrystals | 2019                    | 51977147         | National Natural Science Foundation of China | Fifth lead researcher  |
+| Research on Electromagnetic Force Mechanism & Smoothing in Dynamic Wireless Power Coupling | 2018                    | 51807138         | National Natural Science Foundation of China | Unranked (MSc)         |
 
 Scholarship awards
 ======
